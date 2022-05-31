@@ -1,0 +1,46 @@
+.bg-light {
+    --bs-bg-opacity: 1;
+    background-color: grey!important;
+}
+
+.btn-outline-success {
+    --bs-btn-color: #9f9e9e;
+    --bs-btn-border-color: #9f9e9e;
+    --bs-btn-hover-color: black ;
+    --bs-btn-bg: black;
+    --bs-btn-hover-bg: #939292;
+    --bs-btn-hover-border-color: black;
+    --bs-btn-focus-shadow-rgb: 25,135,84;
+    --bs-btn-active-color: black;
+    --bs-btn-active-bg: black;
+    --bs-btn-active-border-color: black;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: black;
+    --bs-btn-disabled-bg: black;
+    --bs-gradient: none;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.navbar {
+    --bs-navbar-padding-x: 1rem;
+     --bs-navbar-padding-y: 0;
+}
+
+.navbar-brand {
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-right: 0;
+}
+
+.course {
+    padding: 3rem 0;
+    text-align: center;
+}
+
+.heading {
+    font-size: 2.5rem;
+    text-align: center;
+}
