@@ -1,0 +1,120 @@
+
+
+
+
+.pics{
+    display: inline-block;
+    height: 100;
+    width: 120;
+    margin-right: 100px;
+    margin-bottom: 0;
+   
+}
+
+
+.iiitv{
+    font-family: 'Noto Serif', serif;
+    display: inline-block;
+    position: relative;
+    margin-bottom: 0;
+    color: rgb(0, 0, 0);
+    font-size: 43px;  
+}
+
+.heading{
+    text-align: center;
+    color: rgb(142, 141, 141);
+    padding-top: 80px;    
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Noto Serif', serif;
+}
+
+.logo{
+    background-color:rgb(157, 156, 156);
+    margin-bottom: 0;
+}
+
+hr{
+
+    color: rgb(33, 3, 3);
+    margin-top: 0;
+    height: 5px;
+    
+}
+
+.form-group {
+    /* text-align: center; */
+    display: block;
+    width: 178px;
+    padding: 14px;
+    cursor: pointer;
+    border: 0px solid black;
+    margin: 13px auto;
+    background-color: rgb(230, 230, 230);
+    border-radius: 10px;
+    box-shadow: 2px 11px 42px 0 rgb(242, 242, 242), 0 22px 20px 0 rgb(242, 242, 242);
+
+}
+
+.container {
+    /* border: 2px solid black; */
+    background-color:rgb(242, 242, 242);
+    border-radius: 12px;
+    display: inline-block;
+    position: absolute;
+    width: 350px;
+    padding: 60px;
+    margin: 59px 55px;
+    left:35%;
+    height: 400px;
+    box-shadow: 2px 11px 42px 0 rgb(3 0 0), 0 22px 20px 0 rgb(0 0 0 / 19%);
+    text-align: center;
+}
+
+.form-group input {
+    /* text-align: center; */
+    display: block;
+    font-size: small;
+    width: 200px;
+    padding: 14px;
+    cursor: pointer;
+    border: 0px solid black;
+
+    background-color: rgb(230, 230, 230);
+    border-radius: 10px;
+    
+
+}
+
+
+.container button {
+    color: whitesmoke;
+    margin-top: 30px;
+    cursor: pointer;
+    display: inline-block;
+    width: 150px;
+    height: 36px;
+    border: 1px solid rgba(58, 58, 58, 0.836);
+    border-radius: 20px;
+    background-color: rgb(41, 41, 41);
+   
+}
+.container button:hover {
+    background-color: rgb(0, 0, 0);
+    transition-duration: 2ms;
+    color: rgb(242, 242, 242);
+}
+.container input:hover {
+    background-color: rgb(179, 179, 179);
+}
+.container h3 {
+    color: black;
+    font-family: 'Baloo 2', cursive;
+    font-size: xx-large;
+    display: inline;
+    width: 33%;
+    margin: auto;
+    padding: 2px 3px;   
+}
+
