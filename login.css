@@ -11,6 +11,9 @@
    
 }
 
+img, svg {
+    vertical-align: top;
+}
 
 .iiitv{
     font-family: 'Noto Serif', serif;
@@ -19,6 +22,7 @@
     margin-bottom: 0;
     color: rgb(0, 0, 0);
     font-size: 43px;  
+    padding-left: 6rem;
 }
 
 .heading{
@@ -33,6 +37,7 @@
 .logo{
     background-color:rgb(157, 156, 156);
     margin-bottom: 0;
+    padding: 0 1rem;
 }
 
 hr{
