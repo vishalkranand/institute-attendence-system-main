@@ -37,6 +37,7 @@ img, svg {
 .logo{
     background-color:rgb(157, 156, 156);
     margin-bottom: 0;
+    padding: 0 1rem;
 }
 
 hr{
