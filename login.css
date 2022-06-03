@@ -45,7 +45,7 @@ hr{
 }
 
 .form-group {
-    /* text-align: center; */
+   
     display: block;
     width: 200px;
     padding: auto;
@@ -59,7 +59,7 @@ hr{
 }
 
 .container {
-    /* border: 2px solid black; */
+
     background-color:rgb(242, 242, 242);
     border-radius: 12px;
     display: inline-block;
@@ -74,7 +74,7 @@ hr{
 }
 
 .form-group input {
-    /* text-align: center; */
+   
     display: block;
     font-size: small;
     width: 200px;
