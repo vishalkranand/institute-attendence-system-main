@@ -1,7 +1,3 @@
-
-
-
-
 .pics{
     display: inline-block;
     height: 100;
@@ -51,8 +47,8 @@ hr{
 .form-group {
    
     display: block;
-    width: 178px;
-    padding: 14px;
+    width: 200px;
+    padding: auto;
     cursor: pointer;
     border: 0px solid black;
     margin: 13px auto;
